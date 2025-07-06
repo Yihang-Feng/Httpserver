@@ -1,3 +1,0 @@
-/root/Project/ReactorHttp-Cpp/build/CMakeFiles/ReactorHttp.dir
-/root/Project/ReactorHttp-Cpp/build/CMakeFiles/edit_cache.dir
-/root/Project/ReactorHttp-Cpp/build/CMakeFiles/rebuild_cache.dir
